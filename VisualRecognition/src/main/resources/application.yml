@@ -1,0 +1,5 @@
+watson:
+  apikey: "{your apikey}"
+  version: "2018-03-19"
+  endpoint: "https://gateway.watsonplatform.net/visual-recognition/api"
+  negativeExamplesPath: "D:\\notes v2\\Dev\\IBM Watson\\negative.zip"
